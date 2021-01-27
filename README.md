@@ -4,7 +4,9 @@ This repository showcases projects completed as part of [Udacity's Data Analyst 
 ### Index
 1. [Investigating a Dataset](https://github.com/emmanuelfwerr/DataAnalysis/tree/master/Investigating%20a%20Dataset)
 2. [Analyzing A/B Test results](https://github.com/emmanuelfwerr/DataAnalysis/tree/master/Analyzing%20AB%20Test%20Results)
-3. [Case Studies](https://github.com/emmanuelfwerr/DataAnalysis/tree/master/Case%20Studies)
+3. [Sakila DVDrental Database Analysis with SQL](https://github.com/emmanuelfwerr/DataAnalysis/tree/master/Sakila%20DVDrental%20Database%20Analysis%20with%20SQL)
+4. [Analyzing Bikeshare Data with Python](https://github.com/emmanuelfwerr/DataAnalysis/tree/master/Analyzing%20Bikeshare%20Data%20with%20Python)
+5. [Case Studies](https://github.com/emmanuelfwerr/DataAnalysis/tree/master/Case%20Studies)
    - [Fuel Economy](https://github.com/emmanuelfwerr/DataAnalysis/tree/master/Case%20Studies/Fuel%20Economy)
    - [Wine Properties and Ratings](https://github.com/emmanuelfwerr/DataAnalysis/tree/master/Case%20Studies/Wine%20Properties%20and%20Ratings)
    
