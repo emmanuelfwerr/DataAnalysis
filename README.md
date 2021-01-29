@@ -1,5 +1,5 @@
 # Data Analysis Projects
-This repository showcases projects completed as part of [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002). A course developed in collaboration with Kaggle and AWS where I advanced my programming skills and refined my ability to work with messy, complex datasets. I learned how to manipulate and prepare data for analysis, and create visualizations for data exploration. Most importantly, I learned how to use your my skills to tell a story with data.
+This repository showcases projects completed as part of [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002). A course developed in collaboration with Kaggle where I advanced my programming skills and refined my ability to work with messy, complex datasets. I learned how to manipulate and prepare data for analysis, and create visualizations for data exploration. Most importantly, I learned how to use your my skills to tell a story with data.
 
 ### Index
 1. [Investigating a Dataset](https://github.com/emmanuelfwerr/DataAnalysis/tree/master/Investigating%20a%20Dataset)
